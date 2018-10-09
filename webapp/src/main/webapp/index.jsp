@@ -1,3 +1,2 @@
-Hello, Welcome to Valaxy Technologies !!
-
-Deployment is going to happen through ansible
+Hello folks, Welcome to Valaxy Technologies..!!
+Added sonar qube
