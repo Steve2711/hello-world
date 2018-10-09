@@ -1,1 +1,2 @@
-Hello folks, Welcome to Valaxy Technologies. Updating Added sonar qube..!!
+Hello folks, Welcome to Valaxy Technologies. 
+Inluded sonarqube in pipline ..!!
