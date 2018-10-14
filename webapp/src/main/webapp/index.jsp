@@ -1,2 +1,2 @@
 Hello folks, Welcome to Valaxy Technologies. 
-Inluded sonarqube in pipline ..!!
+Inluded sonarqube for continous inspection of code ..!!
