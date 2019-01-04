@@ -1,2 +1,2 @@
-Hay folks, Welcome to Valaxy Technologies. 
+Hay folks, Welcome to My world. 
 Inluded sonarqube for continous inspection of code ..!!
